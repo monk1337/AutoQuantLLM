@@ -7,6 +7,9 @@
 
 Auto-QuantLLM is a toolkit designed to simplify the Quantization of Large Language Models (LLMs) with an emphasis on ease of use and flexibility, Auto-QuantLLM supports conversion of LLM into different efficient formats for local deployment.
 
+## Supporting Quantization Methods
+
+GGUF, GPTQ, EXL2, AWQ, and HQQ
 
 ## Getting Started
 
